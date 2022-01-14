@@ -1,0 +1,55 @@
+html,body{
+    height: 100%;
+    background: linear-gradient(69.66deg, #00C1FE 19.39%, #FAFFC1 96.69%);
+}
+.global-container{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.signup a {
+    color:  #00C1FE;
+ }
+ .btn-primary {
+    background: #00C1FE;
+border-radius: 4px;
+}
+.login-form{
+    width: 435px;
+    height: 450px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.1);
+}
+.form-group ::placeholder{
+    font-size: 12px;
+    color: #CDCDCD;
+    }
+.form-group label{
+        font-weight: 500;
+        font-size: 14px;
+        color: #6C6C6C;
+    }
+.card-body p{
+        font-size: 12px;
+        margin-left: 80px;
+        color: #6C6C6C;
+    }
+.card-body h2{
+        font-weight: 600;
+        font-size: 20px;
+        color: #000000;
+        
+        }
+ .card-body h1{ 
+            font-weight: bold;
+            font-size: 32px;
+            line-height: 39px;
+            color: #000000;
+        }
+.signup{
+        font-size: 10px;
+        color: #6C6C6C;
+
+}
