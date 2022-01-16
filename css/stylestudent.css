@@ -1,10 +1,12 @@
 body{
-    overflow: hidden;
     display: flex;
+
 }
 .sidebar{
     background-color:  #FAFFC1    ;
-    height: 100vh;
+    height: 129vh;
     width: 270px;
 }
-
+a .nav-lin{
+    margin-bottom: 400px;
+}
