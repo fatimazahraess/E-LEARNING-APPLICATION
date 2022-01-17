@@ -1,0 +1,9 @@
+body{
+    display: flex;
+
+}
+.sidebar{
+    background-color:  #FAFFC1    ;
+    height: 129vh;
+    width: 290px;
+}
